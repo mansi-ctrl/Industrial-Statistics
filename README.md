@@ -1,2 +1,2 @@
-# Industrial-Stastics
+# Industrial-Statistics
 Class-work,Assignments
